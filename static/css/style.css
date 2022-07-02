@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #e2e2e2;
+    color: #0f0f0f;
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul li {
+    cursor: pointer;
+}
+
+li {
+    list-style: none;
+}
+
+.feito {
+    text-decoration: line-through;
+}
